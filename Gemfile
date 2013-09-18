@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.12'
+gem 'aws-sdk'
 gem 'devise'
 gem 'simple_form'
 gem  "paperclip", "~> 3.0"
