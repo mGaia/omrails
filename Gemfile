@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
 gem 'rails', '3.2.12'
 gem 'aws-sdk'
 gem 'devise'
